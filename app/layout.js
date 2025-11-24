@@ -1,6 +1,6 @@
 import "./globals.css";
-import Navbar from "../components/Navbar";
-import FooterNav from "../components/FooterNav";
+import Navbar from "./components/Navbar";
+import FooterNav from "./components/FooterNav";
 
 export const metadata = {
   title: "MasalaMiles",
